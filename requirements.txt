@@ -1,0 +1,3 @@
+hikari==2.0.0.dev115
+hikari-miru==2.0.4
+python-dotenv==0.21.1
